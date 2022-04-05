@@ -1,0 +1,23 @@
+#container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+.box{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    margin: 10px;
+}
+h1, span{
+    font-family: monospace;
+    font-size: 2em;
+    display: inline-block;
+}
+span{
+    color: #fff;
+    padding: 5px;
+    border-radius: 10px;
+    text-align: center !important ;
+}
